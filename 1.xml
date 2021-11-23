@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<articles>
+    <article id_art="1" name="Батон нарезной в/с 0.4кг" code="1010050114" username="WHS" guid="6992B998083711DC87F900093D12899D"/>
+    <article id_art="2" name="Кофе" code="1010058199" username="US2" guid="6992B998083711DC87F900093D120002"/>
+    <article id_art="3" name="Молоко" code="1010058188" username="US3" guid="6992B998083711DC87F900093D120003"/>
+    <article id_art="4" name="Яйцо" code="1010058177" username="US4" guid="6992B998083711DC87F900093D120004"/>
+</articles>

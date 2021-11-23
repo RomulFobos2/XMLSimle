@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<articles>
+  <article>
+    <id_art>1</id_art>
+    <name>Батон нарезной в/с 0.4кг</name>
+    <code>1010050114</code>
+    <username>WHS</username>
+    <guid>6992B998083711DC87F900093D12899D</guid>
+  </article>
+  <article>
+    <id_art>2</id_art>
+    <name>Кофе</name>
+    <code>1010058199</code>
+    <username>US2</username>
+    <guid>6992B998083711DC87F900093D120002</guid>
+  </article>
+  <article>
+    <id_art>3</id_art>
+    <name>Молоко</name>
+    <code>1010058188</code>
+    <username>US3</username>
+    <guid>6992B998083711DC87F900093D120003</guid>
+  </article>
+  <article>
+    <id_art>4</id_art>
+    <name>Яйцо</name>
+    <code>1010058177</code>
+    <username>US4</username>
+    <guid>6992B998083711DC87F900093D120004</guid>
+  </article>
+</articles>
